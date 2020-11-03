@@ -8,4 +8,4 @@ if gondolt_szám2 == tipp2:
     print('Eltaláltad!')
     print('Te vagy az ász!')
 else:
-    print('Búj el mert ma viszik szemetett.')
+    print('Búj el mert, ma viszik szemetet.')
